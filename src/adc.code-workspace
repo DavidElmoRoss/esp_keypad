@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../adc"
+		},
+		{
+			"name": "a2d_to_LCD",
+			"path": "../../a2d_to_LCD"
+		},
+		{
+			"name": "BLINKY",
+			"path": "../../BLINKY"
+		},
+		{
+			"name": "Keypad",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "a2d_to_LCD",
+			"path": "../a2d_to_LCD"
+		},
+		{
+			"name": "BLINKY",
+			"path": "../BLINKY"
+		},
+		{
+			"name": "ESP_LCD",
+			"path": "../ESP_LCD"
+		}
+	],
+	"settings": {}
+}
