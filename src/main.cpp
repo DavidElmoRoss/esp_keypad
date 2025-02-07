@@ -28,9 +28,9 @@ unsigned char colPins[4] = {21, 22, 23, 19};   // connect to the column pinouts 
 Keypad myKeypad = Keypad(makeKeymap(keys), rowPins, colPins, 4, 4);
 
 void setup() {
-  Serial.begin(115200); // Initialize the serial port and set the baud rate to 115200
-  printf("\e[2J\e[12;35HKey Pressed   HEX"); // clear screen and set to (12,35)
-  fflush(stdout);                      // flush this to screen
+  Serial.begin(115200);                       // Initialize the serial port and set the baud rate to 115200
+  printf("\e[2J\e[12;35HKey Pressed   HEX");  // clear screen and set to (12,35)
+  fflush(stdout);                             // flush this to screen
 }
 
 void loop() {
